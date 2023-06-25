@@ -1,11 +1,1 @@
-*
-!/bedrock_server/development_behavior_packs/*
-!/bedrock_server/development_resource_packs/*
-!/bedrock_server/worlds/*
-!/bedrock_server/allowlist.js
-!/bedrock_server/permissions.js
-!/bedrock_server/server.properties
-!/plugins/*
-!index.ts
-!/storage/*
-!/node_modules/*
+node_modules
